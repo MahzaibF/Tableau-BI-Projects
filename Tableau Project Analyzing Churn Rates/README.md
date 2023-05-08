@@ -6,7 +6,8 @@ Analyzing churn not only means knowing what the churn rate is but also figuring 
 
 ## Demo
 
-Insert gif or link to demo
+[Churn_story](https://user-images.githubusercontent.com/130860543/236802286-501fc422-6490-47e5-8a31-7a66cb2cc7a4.gif)
+
 
 
 ## Objectives
